@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i9H7gqNqd21PE9u7qkCnjWBKWsZi9Xm4MIC0wf6bC8Hc4YVbLfWBkPNnEyYQ40NwWqHdLWfr6yxXob8pVj3+zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\GitHub\\FormacaoAspNetCoreExpertDesenvolvedorIO\\IniciandoComAspNetCore\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
