@@ -20,15 +20,15 @@ namespace MinhaDemoMVC.Controllers
         
         public IActionResult Index()
         {
-            var filme = new Filme {
-                Titulo = "Oi",
-                DataLancamento = DateTime.Now,
-                Genero = null,
-                Avaliacao = 10,
-                Valor = 20000
-            };
-            return RedirectToAction("Privacy", filme);
-            // return View();
+            //var filme = new Filme {
+            //    Titulo = "Oi",
+            //    DataLancamento = DateTime.Now,
+            //    Genero = null,
+            //    Avaliacao = 10,
+            //    Valor = 20000
+            //};
+            //return RedirectToAction("Privacy", filme);
+            return View();
         }
 
         public IActionResult Privacy(Filme filme)

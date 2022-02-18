@@ -38,3 +38,6 @@ C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorI
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\MinhaDemoMVC.pdb
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\MinhaDemoMVC.genruntimeconfig.cache
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\MinhaDemoMVC.csproj.CopyComplete
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\Razor\Views\Shared\_AvisoGeral.cshtml.g.cs
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\MinhaDemoMVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
