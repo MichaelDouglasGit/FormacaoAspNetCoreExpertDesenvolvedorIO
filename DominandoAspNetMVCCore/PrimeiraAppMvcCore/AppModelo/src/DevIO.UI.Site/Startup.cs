@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +25,14 @@ namespace DevIO.UI.Site
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.Configure<RazorViewEngineOptions>(options =>
+            {
+                options.AreaViewLocationFormats.Clear();
+                options.AreaViewLocationFormats.Add(item: "/Modulos/{2}/Views/{1}/{0}.cshtml");
+                options.AreaViewLocationFormats.Add(item: "/Modulos/{2}/Views/Shared/{0}.cshtml");
+                options.AreaViewLocationFormats.Add(item: "/Views/Shared/{0}.cshtml");
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,10 +56,21 @@ namespace DevIO.UI.Site
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
-            {
+            {;
                 endpoints.MapControllerRoute(
                     name: "areas",
-                    pattern: "{area:exists}/{controller}/{action}");
+                    pattern: "{area:exists}/{controller}/{action=Index}");
+
+                endpoints.MapAreaControllerRoute(
+                    name: "AreaProdutos",
+                    areaName: "Produtos",
+                    pattern: "Produtos/{controller=Cadastro}/{action=Index}/{id?}");
+                
+                endpoints.MapAreaControllerRoute(
+                    name: "AreaVendas",
+                    areaName: "Vendas",
+                    pattern: "Vendas/{controller=Pedidos}/{action=Index}/{id?}");
+
 
                 endpoints.MapControllerRoute(
                     name: "default",
