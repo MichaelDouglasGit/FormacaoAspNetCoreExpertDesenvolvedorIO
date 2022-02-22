@@ -9,8 +9,7 @@
   {
     "outputFileName": "wwwroot/js/site_bundle.min.js",
     "inputFiles": [
-      "wwwroot/lib/jquery/jquery.js",
-      "wwwroot/js/site.js"
+      "wwwroot/lib/jquery/jquery.js"
     ]
   },
   {
