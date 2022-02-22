@@ -1,7 +1,9 @@
-﻿
+﻿@using DevIO.UI.Site.Data
+@inject IPedidoRepository PedidoRepository
 @{
     ViewData["Title"] = "Olá";
 }
 
 <h1>@ViewData["Title"]</h1>
 
+@PedidoRepository.ObterPedido().Id
