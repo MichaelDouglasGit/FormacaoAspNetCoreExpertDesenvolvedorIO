@@ -38,7 +38,7 @@ namespace DevIO.UI.Site.Controllers
             //Delete
             _contexto.Alunos.Remove(aluno);
 
-            return View();
+            return View("_Layout");
         }
     }
 }
