@@ -171,3 +171,4 @@ C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorI
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\AspNetCoreIdentity.csproj.AssemblyReference.cache
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
