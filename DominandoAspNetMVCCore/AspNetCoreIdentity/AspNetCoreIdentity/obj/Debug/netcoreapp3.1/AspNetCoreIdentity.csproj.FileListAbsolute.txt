@@ -173,4 +173,4 @@ C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorI
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\AspNetCoreIdentity.csproj.AssemblyReference.cache
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Production.json
-C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettingsStaging.json
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Staging.json
