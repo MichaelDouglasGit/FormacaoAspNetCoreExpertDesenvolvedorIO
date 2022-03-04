@@ -174,3 +174,11 @@ C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorI
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Production.json
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp3.1\Razor\Views\Teste\Index.cshtml.g.cs
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\KissLog.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\KissLog.AspNetCore.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\KissLog.CloudListeners.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\KissLog.RestClient.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp3.1\System.Text.Json.dll

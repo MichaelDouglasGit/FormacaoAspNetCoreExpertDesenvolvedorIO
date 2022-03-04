@@ -3,19 +3,19 @@ using System.Threading.Tasks;
 
 namespace AspNetCoreIdentity.Extensions
 {
-    public class PermissaoNecessario : IAuthorizationRequirement
+    public class PermissaoNecessaria : IAuthorizationRequirement
     {
         public string Permisao { get; set; }
 
-        public PermissaoNecessario(string permissao)
+        public PermissaoNecessaria(string permissao)
         {
             Permisao = permissao;
         }
     }
 
-    public class PermissaoNecessariaHandler : AuthorizationHandler<PermissaoNecessario>
+    public class PermissaoNecessariaHandler : AuthorizationHandler<PermissaoNecessaria>
     {
-        protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, PermissaoNecessario requisito)
+        protected override Task HandleRequirementAsync(AuthorizationHandlerContext context, PermissaoNecessaria requisito)
         {
             if (context.User.HasClaim(c => c.Type == "Permissao" && c.Value.Contains(requisito.Permisao)))
             {
