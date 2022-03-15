@@ -22,7 +22,7 @@ namespace AppMvcBasica.Models
         public string Complemento { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        [StringLength(200, ErrorMessage = "O campo {0} precisa ter {1} caracteres", MinimumLength = 8)]
+        [StringLength(8, ErrorMessage = "O campo {0} precisa ter {1} caracteres", MinimumLength = 8)]
         public string Cep { get; set; }
         
         [Required(ErrorMessage = "O campo {0} é obrigatório")]

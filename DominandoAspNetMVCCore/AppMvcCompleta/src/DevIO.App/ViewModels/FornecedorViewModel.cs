@@ -22,13 +22,12 @@ namespace DevIO.App.ViewModels
 
         [DisplayName("Tipo")]
         public int TipoFornecedor { get; set; }
-        
+
         public EnderecoViewModel Endereco { get; set; }
 
         [DisplayName("Ativo?")]
         public bool Ativo { get; set; }
 
-        /* EF Relations*/
         public IEnumerable<ProdutoViewModel> Produtos { get; set; }
     }
 }

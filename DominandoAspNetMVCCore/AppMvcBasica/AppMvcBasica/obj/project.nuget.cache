@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7nSYy28LVqFr3fzsT0LXqHIWUqNxHiSZBcGnEYUW75GPwz8MNy3whdLaECr3Jwg/cKWAOy24oQCeDPqOEdsvZA==",
+  "dgSpecHash": "x7mdqeTRDwUC5ey/ifSFjbHD2AwDTf7MJOgW6LTPojHL3MCWHND7kGhMRcVo0JxZbgsuBjCpD6HKR4gHmhIZEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael Douglas\\Documents\\GitHub\\FormacaoAspNetCoreExpertDesenvolvedorIO\\DominandoAspNetMVCCore\\AppMvcBasica\\AppMvcBasica\\AppMvcBasica.csproj",
   "expectedPackageFiles": [
@@ -175,7 +175,8 @@
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Michael Douglas\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Michael Douglas\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Michael Douglas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
   ],
   "logs": []
 }
