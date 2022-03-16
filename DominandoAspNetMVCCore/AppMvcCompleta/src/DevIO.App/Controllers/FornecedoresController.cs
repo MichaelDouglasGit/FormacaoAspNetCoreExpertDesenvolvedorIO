@@ -21,7 +21,7 @@ namespace DevIO.App.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(_mapper.Map<IEnumerable<ProdutoViewModel>>(await _fornecedorRepository.ObterTodos()));
+            return View(_mapper.Map<IEnumerable<FornecedorViewModel>>(await _fornecedorRepository.ObterTodos()));
         }
 
         public async Task<IActionResult> Details(Guid id)
