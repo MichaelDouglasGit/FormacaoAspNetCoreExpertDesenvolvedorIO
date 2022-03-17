@@ -10,3 +10,8 @@ DominandoAspNetMVCCore/AspNetCoreIdentity/AspNetCoreIdentity/obj/Debug/netcoreap
 DominandoAspNetMVCCore/AspNetCoreIdentity/AspNetCoreIdentity/obj/Debug/netcoreapp3.1/AspNetCoreIdentity.Views.dll
 DominandoAspNetMVCCore/AspNetCoreIdentity/AspNetCoreIdentity/obj/Debug/netcoreapp3.1/AspNetCoreIdentity.Views.pdb
 DominandoAspNetMVCCore/AspNetCoreIdentity/.vs/AspNetCoreIdentity/v16/.suo
+*.dll
+*.dll
+*.pdb
+*.v2
+DominandoAspNetMVCCore/AppMvcCompleta/.vs/AppMvcCompleta/v16/.suo
