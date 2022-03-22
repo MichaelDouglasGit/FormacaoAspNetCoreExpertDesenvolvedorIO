@@ -454,3 +454,4 @@ C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorI
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\DevIO.App.genruntimeconfig.cache
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Production.json
 C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AppMvcCompleta\src\DevIO.App\bin\Debug\netcoreapp3.1\appsettings.Staging.json
+C:\Users\Michael Douglas\Documents\GitHub\FormacaoAspNetCoreExpertDesenvolvedorIO\DominandoAspNetMVCCore\AppMvcCompleta\src\DevIO.App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
